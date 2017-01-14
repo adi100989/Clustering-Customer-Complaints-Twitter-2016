@@ -1,1 +1,6 @@
-.ipynb_checkpoints
+*.ipynb_checkpoints
+*.pickle
+*.pyc
+src/lib/
+*.fuse_hidden*
+*src/.ipynb_checkpoints*
